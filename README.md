@@ -1,6 +1,6 @@
 # CSC-369-FP
 Easy, Medium, and Hard lists contains a unique password on each line. Easy contains less than 100 entries, Medium contains 1000, and Hard 
-contains 1000000. The full list of all possible passwords is available online and is over 20GB.
+contains 1000000. The full list of all possible passwords is available online and is over 20GB: https://oxagast.org/wordlists/adjective_noun_3_digits_router.lst.gz
 
 The ExampleNetworks program lists all available networks, then attemps to connect to one with the SSID and password provided by the user.
 
